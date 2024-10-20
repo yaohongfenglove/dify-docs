@@ -105,15 +105,10 @@ LLM 并不具备直接读取文档文件的能力，因此需要使用 [文档�
 
 * **音视频文件**
 
-&#x20;LLM 尚未支持直接读取音视频文件，Dify 平台也尚未内置相关文件处理工具。应用开发者可以参考 [外部数据工具](../extension/api-based-extension/external-data-tool.md) 接入工具自行处理文件信息。
-
-
+LLM 尚未支持直接读取音视频文件，Dify 平台也尚未内置相关文件处理工具。应用开发者可以参考 [外部数据工具](../extension/api-based-extension/external-data-tool.md) 接入工具自行处理文件信息。
 
 ### 常见问题
 
 **在 Dify Cloud 中，应用使用者在聊天框中上传的文件将保存多久？**
 
 持久保存。
-
-
-

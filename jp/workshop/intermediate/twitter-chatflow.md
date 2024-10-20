@@ -3,9 +3,9 @@ cover: ../../.gitbook/assets/Cover.png
 coverY: 0
 ---
 
-# チャットストリームエージェントを使用して Twitter アカウントを分析する
+# チャットストリームエージェントを使用した Twitter アカウントの分析方法
 
-> 作者：Steven Lynn. Difyのテクニカルライター
+> 著者：Steven Lynn. Difyのテクニカルライター
 
 ## はじめに
 

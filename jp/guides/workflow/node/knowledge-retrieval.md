@@ -1,12 +1,12 @@
 # 知識検索
 
-### 1 定義
+### 定義
 
 ナレッジベースからユーザーの質問に関連するテキスト内容を検索し、それを下流のLLMノードのコンテキストとして使用することができます。
 
 ***
 
-### 2 シナリオ
+### シナリオ
 
 一般的なシナリオ：外部データ/ナレッジに基づくAI質問応答システム（RAG）を構築。RAGの[基本概念](../../../learn-more/extended-reading/retrieval-augment/)についてもっと知る。
 
@@ -16,9 +16,7 @@
 
 ***
 
-### 3 どのように設定するか
-
-<figure><img src="../../../.gitbook/assets/jp-knowledge-retrieval-setting.png" alt=""><figcaption><p>ナレッジ検索の設定</p></figcaption></figure>
+### 設定方法
 
 **設定プロセス：**
 
@@ -26,6 +24,8 @@
 2. 検索するナレッジベースを選択します。オプションとして選択可能なナレッジベースは、Difyナレッジベース内で事前に[作成](../../knowledge-base/create-knowledge-and-upload-documents.md#id-1-chuang-jian-zhi-shi-ku)する必要があります。
 3. [リコールモード](../../../learn-more/extended-reading/retrieval-augment/retrieval.md)と[ナレッジベース設定](../../knowledge-base/knowledge-and-documents-maintenance.md#id-8-zhi-shi-ku-she-zhi)を設定します。
 4. 下流ノードを接続し設定します。一般的にはLLMノードです。
+
+<figure><img src="../../../.gitbook/assets/jp-knowledge-retrieval-setting.png" alt=""><figcaption><p>ナレッジ検索の設定</p></figcaption></figure>
 
 **出力変数**
 

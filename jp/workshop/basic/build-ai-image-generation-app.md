@@ -1,6 +1,6 @@
-# ゼロからAI画像生成アプリを作る
+# ゼロからAI画像生成アプリの構築方法
 
-> 作者：Steven Lynn. Difyのテクニカルライター
+> 著者：Steven Lynn. Difyのテクニカルライター
 
 画像生成技術の発展に伴い、Dall-e、Flux、Stable Diffusionなどの優れた画像生成ツールが多数登場しています。
 

@@ -40,6 +40,8 @@
     * [条件分岐](guides/workflow/node/ifelse.md)
     * [コード実行](guides/workflow/node/code.md)
     * [テンプレート](guides/workflow/node/template.md)
+    * [テキスト抽出ツール](guides/workflow/node/doc-extractor.md)
+    * [リスト処理](guides/workflow/node/list-operator.md)
     * [変数集約](guides/workflow/node/variable-assigner.md)
     * [変数代入](guides/workflow/node/variable-assignment.md)
     * [イテレーション](guides/workflow/node/iteration.md)
@@ -48,6 +50,8 @@
     * [ツール](guides/workflow/node/tools.md)
   * [ショートカットキー](guides/workflow/shortcut-key.md)
   * [オーケストレートノード](guides/workflow/orchestrate-node.md)
+  * [ファイルアップロード](guides/workflow/file-upload.md)
+  * [追加機能](guides/workflow/additional-features.md)
   * [プレビューとデバッグ](guides/workflow/debug-and-preview/README.md)
     * [プレビューと実行](guides/workflow/debug-and-preview/yu-lan-yu-yun-hang.md)
     * [ステップ実行](guides/workflow/debug-and-preview/step-run.md)
@@ -80,6 +84,7 @@
     * [Serper](guides/tools/tool-configuration/serper.md)
     * [SearXNG](guides/tools/tool-configuration/searxng.md)
     * [SiliconFlow（Flux AI サポート）](guides/tools/tool-configuration/siliconflow.md)
+    * [ComfyUI](guides/tools/tool-configuration/comfyui.md)
 * [アプリ公開](guides/application-publishing/README.md)
   * [シングルページWebアプリとして公開](guides/application-publishing/launch-your-webapp-quickly/README.md)
     * [Web アプリの設定](guides/application-publishing/launch-your-webapp-quickly/web-app-settings.md)
@@ -116,9 +121,11 @@
 ## ハンドオン工房 <a href="workshop" id="workshop"></a>
 
 * [初級編](workshop/basic/README.md)
-  * [ゼロからAI画像生成アプリを作る](workshop/basic/build-ai-image-generation-app.md)
+  * [ゼロからAI画像生成アプリの構築方法](workshop/basic/build-ai-image-generation-app.md)
+  * [AIエージェントの実践：個人のオンライン旅行アシスタントの構築方法](workshop/basic/travel-assistant.md)
 * [中級編](workshop/intermediate/README.md)
-  * [チャットストリームエージェントを使用して Twitter アカウントを分析する](workshop/intermediate/twitter-chatflow.md)
+  * [チャットストリームエージェントを使用した Twitter アカウントの分析方法](workshop/intermediate/twitter-chatflow.md)
+  * [ファイルアップロードを使用した記事理解アシスタントの構築方法](workshop/intermediate/article-reader.md)
 
 ## コミュニティ <a href="#community" id="community"></a>
 
@@ -138,6 +145,7 @@
   * [OpenLLMでデプロイしたローカルモデルを統合](development/models-integration/openllm.md)
   * [LocalAIでデプロイしたローカルモデルを統合](development/models-integration/localai.md)
   * [Ollamaでデプロイしたローカルモデルを統合](development/models-integration/ollama.md)
+  * [LiteLLM Proxyを使用してモデルを統合する](development/models-integration/litellm.md)
 
 ## もっと読む <a href="#learn-more" id="learn-more"></a>
 

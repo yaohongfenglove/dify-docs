@@ -81,6 +81,7 @@
     * [SearXNG](guides/tools/tool-configuration/searxng.md)
     * [Serper](guides/tools/tool-configuration/serper.md)
     * [SiliconFlow (支持 Flux 绘图)](guides/tools/tool-configuration/siliconflow.md)
+    * [ComfyUI](guides/tools/tool-configuration/comfyui.md)
 * [发布](guides/application-publishing/README.md)
   * [发布为公开 Web 站点](guides/application-publishing/launch-your-webapp-quickly/README.md)
     * [Web 应用的设置](guides/application-publishing/launch-your-webapp-quickly/web-app-settings.md)

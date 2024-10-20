@@ -1,5 +1,5 @@
 ---
-description: 作者：Steven, Allen. Technical Writer
+description: 作者：Steven and Allen. Technical Writer
 ---
 
 # 文件上传
@@ -7,8 +7,6 @@ description: 作者：Steven, Allen. Technical Writer
 许多专业的内容存储在文档文件内，例如学术报告、法律合同。受限于 LLM 仅能够文本或者图片输入源，难以获取文件内更加丰富的上下文信息，许多用户不得不手动复制粘贴大量信息与 LLM 对话，应用场景有限。
 
 文件上传功能允许将文件以 File variables 的形式在工作流应用中上传、解析、引用、和下载。**开发者现可轻松构建能理解和处理图片、音频、视频的复杂工作。**
-
-
 
 ### 应用场景
 
@@ -58,7 +56,7 @@ Dify 支持在 [ChatFlow](key-concept.md#chatflow-he-workflow) 和 [WorkFlow](ke
 
 #### 1. 在“开始”节点添加文件变量
 
-在应用的[“开始”](node/start.md)节点内添加输入字段，选择**“单文件”**或**“文件列表”** 字段类型的变量。
+在应用的[“开始”](node/start.md)节点内添加输入字段，选择 **“单文件”** 或 **“文件列表”** 字段类型的变量。
 
 {% @arcade/embed flowId="TiLAgL3vgozVhuLBmob9" url="https://app.arcade.software/share/TiLAgL3vgozVhuLBmob9" %}
 
@@ -73,7 +71,7 @@ Dify 支持在 [ChatFlow](key-concept.md#chatflow-he-workflow) 和 [WorkFlow](ke
 
 #### 2. 添加文档提取器节点
 
-上传文件后将存储至单文件变量内，LLM 暂不支持直接读取变量中的文件。因此需要先添加 [**“文档提取器”**](node/doc-extractor.md)&#x20;
+上传文件后将存储至单文件变量内，LLM 暂不支持直接读取变量中的文件。因此需要先添加 [**“文档提取器”**](node/doc-extractor.md)
 
 节点，从已上传的文档文件内提取内容并发送至 LLM 节点完成信息处理。
 

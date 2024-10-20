@@ -31,7 +31,7 @@
 * 登录 Dify
 * 进入工具
 * 选择 Stability
-* 点击授权&#x20;
+* 点击授权
 
 <figure><img src="../../.gitbook/assets/build-ai-image-generation-app-2.png" alt=""><figcaption></figcaption></figure>
 
@@ -45,7 +45,7 @@ Free 版本的 Dify 提供了免费 200 条 OpenAI 的消息额度
 
 如果消息额度不够用，你可以参考下图步骤, 自定义其它模型供应商:
 
-点击**右上角头像 - 设置 - 模型供应商**&#x20;
+点击**右上角头像 - 设置 - 模型供应商**
 
 <figure><img src="../../.gitbook/assets/build-ai-image-generation-app-3.png" alt=""><figcaption></figcaption></figure>
 
@@ -165,7 +165,7 @@ Agent 是一种模拟人类行为和能力的 AI 系统，它通过自然语言�
 如果用户在请求和绘画无关的内容，回复：“对不起，我不明白你在说什么”
 ```
 
-例如，我们尝试提问：今晚吃什么&#x20;
+例如，我们尝试提问：今晚吃什么
 
 <figure><img src="../../.gitbook/assets/build-ai-image-generation-app-15.png" alt=""><figcaption></figcaption></figure>
 

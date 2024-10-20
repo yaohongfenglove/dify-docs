@@ -82,6 +82,7 @@
     * [SearXNG](guides/tools/tool-configuration/searxng.md)
     * [Serper](guides/tools/tool-configuration/serper.md)
     * [SiliconFlow (Flux AI Supported)](guides/tools/tool-configuration/siliconflow.md)
+    * [ComfyUI](guides/tools/tool-configuration/comfyui.md)
 * [Publishing](guides/application-publishing/README.md)
   * [Publish as a Single-page Web App](guides/application-publishing/launch-your-webapp-quickly/README.md)
     * [Web App Settings](guides/application-publishing/launch-your-webapp-quickly/web-app-settings.md)
